@@ -1,0 +1,13 @@
+{
+  
+  "Mercury": {
+  "mean_radius_km": 2439.7,
+  "mass_1024kg": 0.33,
+  "semi_major_axis_au": 0.38709893,
+  "orbital_period_days": 87.969,
+  "surface_gravity_m_s2": 3.7,
+  "escape_velocity_km_s": 4.25
+  }
+  
+}
+
